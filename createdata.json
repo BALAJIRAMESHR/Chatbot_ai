@@ -1,0 +1,50 @@
+{
+  "questions": [
+    {
+      "question": [
+        "what is your name?",
+        "your name is?",
+        "tell your name? "
+      ],
+      "answer": "this is alexa!"
+    },
+    {
+      "question": [
+        "how are you?",
+        "what about you?",
+        "tell about you?"
+      ],
+      "answer": "I am Fine! what about you?"
+    },
+    {
+      "question": [
+        "whare you stay",
+        "give me your address",
+        "tell me your address"
+      ],
+      "answer": "i am in coimbatore"
+    },
+    {
+      "question": "bye",
+      "answer": "thanks for spending time to me! bye...."
+    },
+    {
+      "question": [
+        "fine"
+      ],
+      "answer": "Nice ! Any think ask to me?"
+    },
+    {
+      "question": [
+        "Hello"
+      ],
+      "answer": "hello,talk to me"
+    },
+    {
+      "question": [
+        "hi"
+      ],
+      "answer": "hello,How can you help you"
+    }
+  ]
+}
